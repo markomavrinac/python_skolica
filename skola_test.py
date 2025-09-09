@@ -12,4 +12,4 @@ u vise linija
 """
 
 #ovje printamo nesto
-print("Vrijednost varijable a na kvadrat je",a**0.5)
+print(f"Vrijednost varijable a na kvadrat je {a**2}, a + b = {a+b}, a - b = {a-b}")
